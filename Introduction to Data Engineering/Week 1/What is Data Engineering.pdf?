@@ -1,0 +1,71 @@
+
+#Key players within the data ecosystem
+
+What is Data Engineer
+•	Responsible for developing and maintaining data architectures, supplying data to business analysts.
+•	Extracts, integrates and arranges data from various sources.
+•	Cleans, transforms and readies data for analysis.
+•	Designs, stores and oversees data in repositories.
+
+What is Data Analyst
+•	Converts data and numerical information into understandable language for organizational decision-making.
+•	Examines and purifies data.
+•	Identifies correlations, detects patterns and applies statistical techniques.
+•	Visualizes data for interpretation and presentation.
+•	Addresses inquiries that can be resolved using available data.
+
+Data Scientist
+
+•	Analyzes data to extract actionable insights.
+•	Constructs machine learning and deep learning models.
+•	Addresses predictive queries such as forecasting future social media followers.
+
+Business Analyst and BI Analyst
+•	Evaluate potential business applications.
+•	Organize and supervise data.
+•	Explore data to derive insights.
+
+What is done as Data Engineering?
+•	Collecting source data
+•	Proccesing data
+•	Storing data
+•	Making data available to users securely
+
+— — —
+Data Engineering primarily centers on organizing rather than manipulating data. Data Analysts and Data Scientists then leverage this organized data facilitated by Data Engineering.
+The fundamental aim of Data Engineering is to furnish high-quality data for analytics and informed decision-making. This is accomplished by collecting raw source data, transforming
+it into usable formats, storing it effectively, and guaranteeing secure access for users.
+
+Overview of the DataOps Approach.
+DataOps Approach is approach that gathers DevOps teams, data scientists and data engineers to bring agility and speed to the end-to-end pipeline process, beginning with the collection 
+and ending with delivery.
+
+Roles and proficiencies of a Data Engineer.
+Data is suitable for analysis when it is:
+•Precise.
+•Dependable.
+•In compliance with regulations.
+•Easily accessible to consumers on demand.
+•Technical proficiencies:
+•Proficiency in operating systems.
+•Familiarity with infrastructure components, including virtual machines, networking, application services, and cloud-based services.
+•Competence in databases and data warehouses, spanning RDBMS, NoSQL, and Data Warehouses.
+•Expertise in Data Warehouses such as Oracle Exdata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server, Amazon RedShift.
+
+Data pipelines:
+•Utilization of tools like Apache Beam, Airflow, and Dataflow.
+
+ETL tools (Extract, Transform, Load):
+•Tools like IBM Infosphere, AWS, and Improvado.
+
+Languages:
+•Mastery of query languages and programming languages, alongside shell and scripting languages.
+
+Big Data processing tools:
+•Proficiency in Hadoop, Hive, and Apache Spark.
+
+Functional skills:
+•Capability to translate business requirements into technical specifications.
+•Adeptness in the complete software development lifecycle
+•from ideation and architecture to design, prototyping, testing, deployment, and monitoring.
+•Understanding the risks associated with inadequate data management.
